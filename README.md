@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spiros-zer
 - 👀 I’m interested in coding and programming as well as scripting
-- 🌱 I’m currently learning Matlab, Python, Photoshop, Blender
+- 🌱 I’m currently learning C++, C# and the .NET Framework
 - 📫 spiridonzervos@gmail.com
 
 <!---
