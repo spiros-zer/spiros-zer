@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @spiros-zer
 - 👀 I’m interested in coding and programming as well as scripting
-- 🌱 I’m currently learning C++, C# and the .NET Framework
+- 🌱 I’m currently learning C++, C#
 - 📫 spiridonzervos@gmail.com
 
 <!---
