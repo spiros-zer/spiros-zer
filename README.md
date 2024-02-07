@@ -6,16 +6,14 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spiros-zer&layout=compact" align="right">
 
-<p> <strong>Unreal game dev and software engineer</strong>. Experienced in gameplay and gameplay mechanics integration as well as game-ready UI/UX design and functionality integration. Played around with a couple of languages and technologies, but C++ and Unreal Engine have my heart &#9829;. Frontending and UI/UX design. Modelling stuff for shitz and giggles from time to time.</p>
-
-&nbsp;  
+<p align="left"> <strong>Unreal game dev and software engineer</strong>. Experienced in gameplay and gameplay mechanics integration as well as game-ready UI/UX design and functionality integration. Played around with a couple of languages and technologies, but C++ and Unreal Engine have my heart &#9829;. Frontending and UI/UX design. Modelling stuff for shitz and giggles from time to time.</p>
 
 <!--DETAILS-->
 ## Languages 
-<img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/c.svg" width="30px" height="30px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/cplusplus.svg" width="30px" height="30px">
-<img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/css3.svg" width="30px" height="30px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/html5.svg" width="30px" height="30px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/javascript.svg" width="30px" height="30px"> 
+<img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/c_.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/cpp.svg" width="40px" height="40px">
+<img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/css.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/html.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/js.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/react.svg" width="40px" height="40px"> 
 
 ## Technologies
-<img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/unrealengine.svg" width="30px" height="30px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/jira.svg" width="30px" height="30px">
-<img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/blender.svg" width="30px" height="30px">
-<img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/adobeillustrator.svg" width="30px" height="30px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/adobephotoshop.svg" width="30px" height="30px">
+<img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/unrealengine.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/jira-.svg" width="40px" height="40px">
+<img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/blender-.svg" width="40px" height="40px">
+<img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/illu.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/tech/ph.svg" width="40px" height="40px">
