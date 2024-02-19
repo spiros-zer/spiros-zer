@@ -8,6 +8,8 @@
 
 <p align="left"> <strong>Unreal game dev and software engineer</strong>. Experienced in gameplay and gameplay mechanics integration as well as game-ready UI/UX design and functionality integration. Played around with a couple of languages and technologies, but C++ and Unreal Engine have my heart &#9829;. Frontending and UI/UX design. Modelling stuff for shitz and giggles from time to time.</p>
 
+<br>
+
 <!--DETAILS-->
 ## Languages 
 <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/c_.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/lang/cpp.svg" width="40px" height="40px">
