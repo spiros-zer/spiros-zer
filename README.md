@@ -6,7 +6,11 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spiros-zer&layout=compact" align="right">
 
-<p align="left"> <strong>Unreal game dev and software engineer</strong>. Experienced in gameplay and gameplay mechanics integration as well as game-ready UI/UX design and functionality integration. Played around with a couple of languages and technologies, but C++ and Unreal Engine have my heart &#9829;. Frontending and UI/UX design. Modelling stuff for shitz and giggles from time to time.</p>
+<p align="left"> <strong>Unreal game dev and software engineer</strong>. 
+  
+  Experienced in gameplay and gameplay mechanics integration as well as game-ready UI/UX design and functionality integration. Frontending and UI/UX design.
+  
+  Played around with a couple of languages and technologies. Modelling stuff for shitz and giggles from time to time.</p>
 
 <br>
 
