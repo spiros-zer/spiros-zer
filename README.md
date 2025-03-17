@@ -23,6 +23,7 @@
 
 <!--Projects-->
 ## Projects
+<img src="https://github.com/spiros-zer/spiros-zer/blob/main/proj/wot.svg" width="40px" height="40px"> <img src="https://github.com/spiros-zer/spiros-zer/blob/main/proj/pax-dei.png" width="40px" height="40px">
 
 <!--DETAILS-->
 ## Languages 
