@@ -5,12 +5,10 @@
 [![Static Badge](https://img.shields.io/badge/spiros--zer-red?style=flat&logo=gmail&logoColor=white)](mailto:spiridonzervos@gmail.com)
 [![Static Baadge](https://img.shields.io/badge/MacNcheese212-7289da?style=flat&logo=discord&logoColor=white)]()
 
-  <strong>Unreal game dev and software engineer</strong> &mdash; Experienced in gameplay and UI systems.
-  
-  Played around with a couple of languages and technologies, but Unreal has my heart. Modelling stuff for shitz and giggles from time to time.
+<strong>Unreal game dev and software engineer</strong> &mdash; Experienced in gameplay and UI systems.
 
-<br>
-<br>
+Played around with a couple of languages and technologies, but Unreal has my heart. Modelling stuff for shitz and giggles from time to time.
+
 <br>
 
 <p align="center"> 
