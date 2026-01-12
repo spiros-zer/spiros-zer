@@ -5,13 +5,9 @@
 [![Static Badge](https://img.shields.io/badge/spiros--zer-red?style=flat&logo=gmail&logoColor=white)](mailto:spiridonzervos@gmail.com)
 [![Static Baadge](https://img.shields.io/badge/MacNcheese212-7289da?style=flat&logo=discord&logoColor=white)]()
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spiros-zer&layout=compact" align="right">
-
-<p align="left"> 
-  <strong>Unreal game dev and software engineer</strong> &mdash; Experienced in gameplay and gameplay mechanics integration. Focusing on game ready UI/UX design and functionality integration.
+  <strong>Unreal game dev and software engineer</strong> &mdash; Experienced in gameplay and UI systems.
   
   Played around with a couple of languages and technologies, but Unreal has my heart. Modelling stuff for shitz and giggles from time to time.
-</p>
 
 <br>
 <br>
